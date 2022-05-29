@@ -1,0 +1,41 @@
+{"name": "Chat odalarında Siber Zorba & Siber Kurban Olma Durumları",
+  "children": 
+   [
+     {"name": "Siber Zorbalığa Uğrayanlar",
+      "children": [
+       {"name": "Özel Okul", 
+        "children": [
+          {"name": "Chat Odasında Tehdit Edilme", "value": 5},
+          {"name": "Chat Odasından Atılma", "value": 7},
+          {"name": "Chat Odasında Hakarete Uğrama", "value": 15}
+          ]},
+        {"name": "Devlet Okulu", 
+        "children": [
+          {"name": "Chat Odasında Tehdit Edilme", "value": 9},
+          {"name": "Chat Odasından Atılma", "value": 22},
+          {"name": "Chat Odasında Hakarete Uğrama", "value": 21}
+          ]}
+       
+      ],
+      "value": null
+     },
+     {"name": "Siber Zorbalık Yapanlar",
+      "children": [
+        {"name": "Özel Okul", 
+        "children": [
+          {"name": "Chat Odasında Tehdit Etme", "value": 65},
+          {"name": "Chat Odasından Atma", "value": 9},
+          {"name": "Chat Odasında Hakaret Etme", "value": 20}
+          ]},
+        {"name": "Devlet Okulu", 
+        "children": [
+          {"name": "Chat Odasında Tehdit Etme", "value": 19},
+          {"name": "Chat Odasından Atma", "value": 37},
+          {"name": "Chat Odasında Hakaret Etme", "value": 23}
+          ]}
+      ],
+      "value": null
+     }
+   ]
+  }
+)});
